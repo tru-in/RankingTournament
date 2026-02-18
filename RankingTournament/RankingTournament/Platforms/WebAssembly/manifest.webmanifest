@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "RankingTournament",
+  "display": "standalone",
+  "name": "RankingTournament",
+  "short_name": "RankingTournament",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
